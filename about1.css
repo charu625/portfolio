@@ -1,0 +1,35 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+    background-image: url("Best\ 50\ Dark\ i-phone\ Wallpapers.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+    text-align: center;
+    margin-top: 5%;
+    font-family: cursive;
+    color: rgba(255,175,4,0.938);
+}
+ul
+{
+    color:rgb(165,150,150);
+    font-size: large;
+    text-align: justify;
+    font-family: cursive;
+}
+a:link
+{
+    color:rgb(165,150,150);
+    font-family: cursive;
+}
+a:visited
+{
+    color: rgba(255,175,4,0.938);
+    font-family: cursive;
+}

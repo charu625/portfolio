@@ -1,12 +1,11 @@
-*
-{
-    box-sizing: border-box;
-}
+
 body{
+
     background-image: url("Best\ 50\ Dark\ i-phone\ Wallpapers.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover; 
+
 }
 nav
 {
@@ -28,15 +27,29 @@ a:visited
 h1
 {
     font-family: cursive;
-    color: rgba(255,175,4,0.938);
-    font-size: 50px;
-    margin-top: 15%;
     text-align: center;
+    margin-top: 5%;
+    color: rgb(255,175,4,0.938);
+    font-size: 50px;
+}
+.contain
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1
+{
+    margin-top: 6%;
+    margin-left: 27%;
+}
+.box2
+{
+    margin-top: 6%;
+    margin-left: 15%;
 }
 p
 {
     text-align: center;
     font-family: cursive;
-    font-size: xx-large;
     color:rgb(165,150,150);
 }
